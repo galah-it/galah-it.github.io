@@ -1,2 +1,1 @@
-# galah-it.github.io
-Galah IT
+Content goes here
