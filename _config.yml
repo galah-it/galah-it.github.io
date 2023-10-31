@@ -1,3 +1,6 @@
-remote_theme: jonaharagon/jekyll-bootstrap-theme
-title: galah.it
+remote_theme: mmistakes/minimal-mistakes
+title: Galah IT
 description: Galah IT
+
+plugins:
+  - jekyll-include-cache
