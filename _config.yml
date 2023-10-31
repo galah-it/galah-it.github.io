@@ -2,5 +2,10 @@ remote_theme: mmistakes/minimal-mistakes
 title: Galah IT
 description: Galah IT
 
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-25WB5SXJ2Z" # Replace this with your ID, or delete
+
 plugins:
   - jekyll-include-cache
