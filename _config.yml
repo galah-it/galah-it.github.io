@@ -3,9 +3,9 @@ title: Galah IT
 description: Galah IT
 
 analytics:
-  provider               : "google-gtag"
+  provider: "google-gtag"
   google:
-    tracking_id          : "G-25WB5SXJ2Z"
+    tracking_id: "G-25WB5SXJ2Z"
 
 plugins:
   - jekyll-include-cache
