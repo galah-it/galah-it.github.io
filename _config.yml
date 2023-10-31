@@ -5,7 +5,7 @@ description: Galah IT
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : "G-25WB5SXJ2Z" # Replace this with your ID, or delete
+    tracking_id          : "G-25WB5SXJ2Z"
 
 plugins:
   - jekyll-include-cache
