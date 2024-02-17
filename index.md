@@ -15,14 +15,14 @@ feature_row:
   - image_path: /images/feature3.jpg
     alt: "Services"
     title: "Services"
-    excerpt: "Working with infrastucture, operations, and development teams"
+    excerpt: "Team augmentation, short-term projects, automation"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /images/feature1.jpg
     alt: "Experience"
     title: "Experience"
-    excerpt: "20+ years experience working with infrastructure, operations and development teams"
+    excerpt: "Working with infrastructure, operations and development teams"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
