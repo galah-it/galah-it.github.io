@@ -1,5 +1,5 @@
 ---
-title: Galah IT
+title: ❯ galah.it_
 layout: splash
 header:
   overlay_color: "#E97451"
@@ -8,28 +8,28 @@ header:
   actions:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/chris-goerner/"
-excerpt: "20+ years experience working with infrastructure, operations and development teams."
+excerpt: "DevOps as a Service"
 intro: 
-  - excerpt: "Deep understanding of Linux and Windows server administration, virtualisation, infrastructure as code, DevOps, cloud and automation platforms. Specific experience with Linux, Ansible, CI/CD, Kubernetes and GitOps."
+  - excerpt: "We offer short-term, team-oriented DevOps services to help you achieve your goals. Whether it's cloud migration, streamlined CI/CD pipelines, automated infrastructure, or enhanced security, we can embed skilled DevOps engineers with the appropriate expertise into your team for a seamless and efficient collaboration. We prioritize clear communication, team integration, and delivering measurable results that make a real difference. Let's discuss your DevOps challenges and see how we can help your team get things done."
 feature_row:
   - image_path: /images/feature3.jpg
-    alt: "Infrastructure"
-    title: "Infrastructure"
-    excerpt: "Operating systems, virtualisation, containers, Kubernetes, cloud platforms"
+    alt: "Services"
+    title: "Services"
+    excerpt: "Infrastucture, operations, development"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /images/feature1.jpg
-    alt: "Operations"
-    title: "Operations"
-    excerpt: "Ansible, Terraform, ArgoCD, New Relic, Prometheus"
+    alt: "Experience"
+    title: "Experience"
+    excerpt: "20+ years experience working with infrastructure, operations and development teams"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /images/feature2.jpg
-    alt: "Development"
-    title: "Development"
-    excerpt: "Python, Ruby, Go, Shell, Scrum, GitLab, CI/CD"
+    alt: "Contact"
+    title: "Contact"
+    excerpt: "Reach out for more information"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
