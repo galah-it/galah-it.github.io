@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.6"
   overlay_image: /images/computer-room.jpg
   actions:
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/chris-goerner/"
+    - label: "Contact"
+      url: "https://www.linkedin.com/company/galah-it"
 excerpt: "DevOps as a Service"
 intro: 
   - excerpt: "We offer short-term, team-oriented DevOps services to help you achieve your goals. We can embed skilled DevOps engineers with the appropriate expertise into your team for seamless and efficient collaboration. We prioritize clear communication, team integration, and delivering results that make a difference. Let's discuss your DevOps challenges and see how we can help your team get things done."
@@ -15,7 +15,7 @@ feature_row:
   - image_path: /images/feature3.jpg
     alt: "Services"
     title: "Services"
-    excerpt: "Infrastucture, operations, development"
+    excerpt: "Working with infrastucture, operations, and development teams"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
@@ -30,7 +30,7 @@ feature_row:
     alt: "Contact"
     title: "Contact"
     excerpt: "Reach out for more information"
-    url: "https://galah.it"
+    url: "https://www.linkedin.com/company/galah-it"
     btn_label: "More"
     btn_class: "btn--primary"
 ---
