@@ -1,6 +1,6 @@
 ---
 title: Services
-layout: single
+layout: home
 ---
 # Hello
 This is a test
