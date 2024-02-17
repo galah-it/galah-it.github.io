@@ -16,7 +16,7 @@ feature_row:
     alt: "Services"
     title: "Services"
     excerpt: "Team augmentation, short-term projects, infrastructure automation"
-    url: "https://galah.it"
+    url: "https://galah.it/services"
     btn_label: "More"
     btn_class: "btn--primary"
   - image_path: /images/feature1.jpg
