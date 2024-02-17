@@ -10,7 +10,7 @@ header:
       url: "https://www.linkedin.com/in/chris-goerner/"
 excerpt: "DevOps as a Service"
 intro: 
-  - excerpt: "We offer short-term, team-oriented DevOps services to help you achieve your goals. Whether it's cloud migration, streamlined CI/CD pipelines, automated infrastructure, or enhanced security, we can embed skilled DevOps engineers with the appropriate expertise into your team for a seamless and efficient collaboration. We prioritize clear communication, team integration, and delivering measurable results that make a real difference. Let's discuss your DevOps challenges and see how we can help your team get things done."
+  - excerpt: "We offer short-term, team-oriented DevOps services to help you achieve your goals. We can embed skilled DevOps engineers with the appropriate expertise into your team for seamless and efficient collaboration. We prioritize clear communication, team integration, and delivering results that make a difference. Let's discuss your DevOps challenges and see how we can help your team get things done."
 feature_row:
   - image_path: /images/feature3.jpg
     alt: "Services"
