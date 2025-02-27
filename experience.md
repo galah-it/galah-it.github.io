@@ -15,7 +15,7 @@ feature_row:
   - image_path: /images/feature3.jpg
     alt: "20+ Years"
     title: "20+ Years"
-    excerpt: "Over 20 years in IT in South Australia
+    excerpt: "Over 20 years in IT in South Australia"
     url: "https://galah.it"
     btn_label: "More"
     btn_class: "btn--primary"
