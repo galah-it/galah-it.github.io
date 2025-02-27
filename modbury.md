@@ -1,6 +1,6 @@
 ---
 title: Linux Support in Modbury
-layout: page
+layout: splash
 header:
   overlay_color: "#E97451"
   overlay_filter: "0.6"
