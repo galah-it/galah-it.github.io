@@ -1,13 +1,6 @@
 ---
 layout: post
 title: What is DevOps?
-header:
-  overlay_color: "#E97451"
-  overlay_filter: "0.6"
-  overlay_image: /images/computer-room.jpg
-  actions:
-    - label: "Contact us"
-      url: "https://www.linkedin.com/company/galah-it"
 tag: devops
 ---
 
