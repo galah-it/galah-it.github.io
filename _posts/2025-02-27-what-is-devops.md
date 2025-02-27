@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: What is DevOps?
 tag: devops
 ---
