@@ -11,7 +11,7 @@ header:
 excerpt: "DevOps as a Service"
 ---
 
-We provide expert DevOps and automation services to help local businesses streamline their IT operations and improve efficiency. We specialize in CI/CD pipelines, cloud infrastructure, and Kubernetes deployments, ensuring smooth and reliable software delivery. Our automation solutions, powered by tools like Kubernetes, GitLab and Ansible, simplify deployments, configuration management and operating system maintenance, reducing manual effort and minimizing errors. With deep expertise in Linux administration, security, and preventative maintenance, we help businesses maintain a secure, stable, and high-performing infrastructure. Whether you need to optimise deployments, automate workflows, or enhance system security, we deliver tailored solutions that keep your business running smoothly.
+We provide expert DevOps and automation services to help local businesses streamline their IT operations and improve efficiency. Whether you need to optimise deployments, automate workflows, or enhance system security, we deliver tailored solutions that keep your business running smoothly.
 
 # CI/CD & Deployment Automation
 - Designing and implementing CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, etc.)
