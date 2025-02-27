@@ -1,5 +1,5 @@
 ---
-title: Galah IT - Services
+title: Services
 layout: single
 header:
   overlay_color: "#E97451"

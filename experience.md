@@ -1,5 +1,5 @@
 ---
-title: Galah IT - Experience
+title: Experience
 layout: splash
 header:
   overlay_color: "#E97451"
