@@ -8,7 +8,6 @@ header:
   actions:
     - label: "Contact"
       url: "https://www.linkedin.com/company/galah-it"
-excerpt: "DevOps as a Service"
 intro: 
   - excerpt: "We provide short-term, team-oriented DevOps services tailored for local small businesses. Our skilled engineers integrate seamlessly with your team to streamline workflows, optimise infrastructure, and accelerate deployments. With a focus on clear communication and collaboration, we help you tackle DevOps challenges efficiently - without the overhead of a full-time hire. Let’s discuss how we can support your business and achieve your goals."
 feature_row:

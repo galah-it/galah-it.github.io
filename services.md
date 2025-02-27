@@ -8,7 +8,6 @@ header:
   actions:
     - label: "Contact"
       url: "https://www.linkedin.com/company/galah-it"
-excerpt: "DevOps as a Service"
 ---
 
 We provide expert DevOps and automation services to help local businesses streamline their IT operations and improve efficiency. Whether you need to optimise deployments, automate workflows, or enhance system security, we deliver tailored solutions that keep your business running smoothly.
