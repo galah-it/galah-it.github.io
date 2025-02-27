@@ -1,13 +1,6 @@
 ---
 title: What is DevOps?
 tag: devops
-header:
-  overlay_color: "#E97451"
-  overlay_filter: "0.6"
-  overlay_image: /images/computer-room.jpg
-  actions:
-    - label: "Contact us"
-      url: "https://www.linkedin.com/company/galah-it"
 ---
 
 DevOps is a set of practices, tools, and a cultural mindset that brings development (Dev) and operations (Ops) teams together to improve software delivery, infrastructure management, and system reliability. It emphasizes automation, collaboration, and continuous improvement to help businesses deploy applications faster and more efficiently.
