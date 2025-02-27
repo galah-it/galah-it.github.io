@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.6"
   overlay_image: /images/computer-room.jpg
   actions:
-    - label: "Contact"
+    - label: "Contact us"
       url: "https://www.linkedin.com/company/galah-it"
 excerpt: "DevOps as a Service"
 intro: 
