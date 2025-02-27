@@ -1,6 +1,6 @@
 ---
 title: What is DevOps?
-layout: single
+layout: archive
 header:
   overlay_color: "#E97451"
   overlay_filter: "0.6"
