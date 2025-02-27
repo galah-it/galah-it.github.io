@@ -1,6 +1,6 @@
 ---
 title: Galah IT - Services
-layout: splash
+layout: single
 header:
   overlay_color: "#E97451"
   overlay_filter: "0.6"
