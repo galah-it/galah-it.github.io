@@ -9,34 +9,48 @@ header:
     - label: "Contact"
       url: "https://www.linkedin.com/company/galah-it"
 excerpt: "DevOps as a Service"
-intro: 
-  - excerpt: "We provide short-term, team-oriented DevOps services tailored for local small businesses. Our skilled engineers integrate seamlessly with your team to streamline workflows, optimise infrastructure, and accelerate deployments. With a focus on clear communication and collaboration, we help you tackle DevOps challenges efficiently - without the overhead of a full-time hire. Let’s discuss how we can support your business and achieve your goals."
-feature_row:
-  - image_path: /images/feature3.jpg
-    alt: "DevOps"
-    title: "DevOps"
-    excerpt: "CI/CD, Cloud, Kubernetes, Pipelines, Deployments"
-    url: "https://galah.it"
-    btn_label: "More"
-    btn_class: "btn--primary"
-  - image_path: /images/feature1.jpg
-    alt: "Automation"
-    title: "Automation"
-    excerpt: "Ansible, Operating Systems, Configuration Management"
-    url: "https://galah.it"
-    btn_label: "More"
-    btn_class: "btn--primary"
-  - image_path: /images/feature2.jpg
-    alt: "Linux Administration"
-    title: "Linux Administration"
-    excerpt: "Infrastructure Services, Security, Preventative Maintenance"
-    url: "https://galah.it"
-    btn_label: "More"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+We provide expert DevOps and automation services to help local businesses streamline their IT operations and improve efficiency. We specialize in CI/CD pipelines, cloud infrastructure, and Kubernetes deployments, ensuring smooth and reliable software delivery. Our automation solutions, powered by tools like Kubernetes, GitLab and Ansible, simplify deployments, configuration management and operating system maintenance, reducing manual effort and minimizing errors. With deep expertise in Linux administration, security, and preventative maintenance, we help businesses maintain a secure, stable, and high-performing infrastructure. Whether you need to optimise deployments, automate workflows, or enhance system security, we deliver tailored solutions that keep your business running smoothly.
 
-{% include feature_row %}
+# CI/CD & Deployment Automation
+- Designing and implementing CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, etc.)
+- Automating code integration, testing, and deployment
+- Enabling blue-green, canary, and rolling deployments
+- Reducing manual deployment risks and improving release cycles
 
-We provide short-term, team-oriented DevOps services tailored for local small businesses. Our skilled engineers integrate seamlessly with your team to streamline workflows, optimise infrastructure, and accelerate deployments. With a focus on clear communication and collaboration, we help you tackle DevOps challenges efficiently - without the overhead of a full-time hire. Let’s discuss how we can support your business and achieve your goals.
+# Cloud Infrastructure Management
+- Cloud setup and optimization (AWS, Azure, GCP)
+- Infrastructure as Code (Terraform, CloudFormation, Pulumi)
+- Cost optimization and resource scaling
+- Hybrid and multi-cloud solutions
+
+# Kubernetes & Container Orchestration
+- Kubernetes cluster setup, management, and scaling
+- Docker containerization and optimization
+- Helm chart development and deployment strategies
+- Security and monitoring for Kubernetes environments
+
+# Configuration Management & Automation
+- Automating system configurations with Ansible, Puppet, or Chef
+- Standardizing infrastructure across environments
+- Patch management and OS hardening
+- Automated server provisioning and scaling
+
+# Linux Server Administration & Security
+- Server setup, maintenance, and troubleshooting
+- Security hardening and compliance (firewall, SSH, SELinux, etc.)
+- Preventative maintenance and performance tuning
+- Disaster recovery and backup strategies
+
+# Monitoring, Logging & Incident Response
+- Setting up observability with Prometheus, Grafana, ELK/EFK stack
+- Log aggregation and real-time alerting
+- Incident response automation (self-healing systems)
+- Improving system uptime and reliability
+
+# DevOps Consulting & Training
+- Assessing DevOps maturity and implementing best practices
+- Cloud and DevOps strategy consulting
+- Training teams on CI/CD, Kubernetes, and automation tools
+- Creating custom DevOps workflows tailored to business needs
