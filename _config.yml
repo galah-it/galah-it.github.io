@@ -9,6 +9,12 @@ analytics:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
+
+tag_page_layout: tags
+tag_page_dir: tag
+permalink: /:title/
+tag_permalink_style: pretty
 
 defaults:
   # _posts
