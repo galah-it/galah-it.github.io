@@ -1,7 +1,7 @@
 main:
-  - title: Home
-    url: https://galah.it
   - title: Services
     url: https://galah.it/services
+  - title: Experience
+    url: https://galah.it/experience
   - title: Contact
     url: https://www.linkedin.com/company/galah-it
