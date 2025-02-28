@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: archive
+layout: home
 header:
   overlay_color: "#E97451"
   overlay_filter: "0.6"
