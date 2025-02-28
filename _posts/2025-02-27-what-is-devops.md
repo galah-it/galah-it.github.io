@@ -1,6 +1,6 @@
 ---
 title: What is DevOps?
-tag: devops
+tags: devops
 ---
 
 DevOps is a set of practices, tools, and a cultural mindset that brings development (Dev) and operations (Ops) teams together to improve software delivery, infrastructure management, and system reliability. It emphasizes automation, collaboration, and continuous improvement to help businesses deploy applications faster and more efficiently.
