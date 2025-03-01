@@ -10,7 +10,7 @@ tags: agile scrum operations
 - Continuous improvement
 
 ## Scrum intro
-- Quick into to the basic parts of Scrum: https://www.youtube.com/watch?v=WxiuE-1ujCM
+- Quick into to the basic parts of Scrum: (https://www.youtube.com/watch?v=WxiuE-1ujCM)
 - More intro: https://www.youtube.com/watch?v=a-8Fm2fJDLI
 - Good advice about ops teams: https://www.youtube.com/watch?v=zFm-Frc-zGo
 
