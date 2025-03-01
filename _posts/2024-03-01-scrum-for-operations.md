@@ -1,5 +1,6 @@
 ---
 title: Introducing Scrum to an Operations Team
+permalink: scrum-for-operations
 tags: agile scrum operations
 ---
 

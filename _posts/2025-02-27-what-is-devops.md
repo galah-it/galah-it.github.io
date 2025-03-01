@@ -1,5 +1,6 @@
 ---
 title: What is DevOps?
+permalink: devops
 tags: devops
 ---
 
