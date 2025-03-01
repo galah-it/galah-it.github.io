@@ -36,7 +36,7 @@ Scrum is widely used in software development, but its principles can also benefi
   - What am I working on today?
   - Any blockers?
 
-[More about Daily Standups](https://www.scrum.org/resources/what-is-daily-scrum)
+[More about Daily Standups](https://www.scrum.org/resources/what-is-a-daily-scrum)
 
 ### 2. Retrospectives
 **Purpose:**
