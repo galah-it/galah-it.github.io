@@ -1,5 +1,6 @@
 ---
 title: Blog
+permalink: blog
 layout: posts
 header:
   overlay_color: "#E97451"

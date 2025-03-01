@@ -1,5 +1,6 @@
 ---
 title: Services
+permalink: services
 layout: single
 header:
   overlay_color: "#E97451"

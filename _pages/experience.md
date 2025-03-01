@@ -1,5 +1,6 @@
 ---
 title: Experience
+permalink: experience
 layout: splash
 header:
   overlay_color: "#E97451"

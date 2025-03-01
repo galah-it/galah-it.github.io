@@ -1,5 +1,6 @@
 ---
 title: Galah IT - Local DevOps in Modbury
+permalink: modbury
 layout: splash
 header:
   overlay_color: "#E97451"
