@@ -3,6 +3,11 @@ title: Introducing Scrum to an Operations Team
 tags: agile scrum operations
 ---
 
+## Benefits
+- Making work visible
+- Promotes collaboration
+- Continuous improvement
+
 ## Scrum intro
 - Quick into to the basic parts of Scrum: https://www.youtube.com/watch?v=WxiuE-1ujCM
 - More intro: https://www.youtube.com/watch?v=a-8Fm2fJDLI
