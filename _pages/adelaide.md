@@ -1,5 +1,6 @@
 ---
 title: Galah IT - Local DevOps in Adelaide
+permalink: adelaide
 layout: splash
 header:
   overlay_color: "#E97451"
