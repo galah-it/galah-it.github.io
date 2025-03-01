@@ -13,6 +13,7 @@ plugins:
   - jekyll-spaceship
   - jekyll-tagging
   - jekyll-feed
+  - jekyll-remote-theme
 
 tag_page_layout: tags
 tag_page_dir: tag
