@@ -11,6 +11,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-spaceship
+  - jekyll-tagging
+  - jekyll-feed
 
 tag_page_layout: tags
 tag_page_dir: tag
