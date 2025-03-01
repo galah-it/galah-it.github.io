@@ -10,18 +10,18 @@ tags: agile scrum operations
 - Continuous improvement
 
 ## Scrum intro
-- Quick into to the basic parts of Scrum: (https://www.youtube.com/watch?v=WxiuE-1ujCM)
-- More intro: https://www.youtube.com/watch?v=a-8Fm2fJDLI
-- Good advice about ops teams: https://www.youtube.com/watch?v=zFm-Frc-zGo
+- Quick into to the basic parts of Scrum: [https://www.youtube.com/watch?v=WxiuE-1ujCM]
+- More intro: [https://www.youtube.com/watch?v=a-8Fm2fJDLI]
+- Good advice about ops teams: [https://www.youtube.com/watch?v=zFm-Frc-zGo]
 
 ## Training
-The Scrum Guide https://scrumguides.org/scrum-guide.html is a great place to start but some of the terminology is bit much. It's a short document because it's a lightweight framework. Scrum seems to work best when it's kept simple and lightweight.
+The Scrum Guide [https://scrumguides.org/scrum-guide.html] is a great place to start but some of the terminology is bit much. It's a short document because it's a lightweight framework. Scrum seems to work best when it's kept simple and lightweight.
 
-Agile Manifesto: https://agilemanifesto.org/
+Agile Manifesto: [https://agilemanifesto.org/]
 
-Scrum Values: https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-05/ScrumValues-Tabloid.pdf
+Scrum Values: [https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-05/ScrumValues-Tabloid.pdf]
 
-Scrum Principles: https://www.scrumstudy.com/whyscrum/scrum-principles
+Scrum Principles: [https://www.scrumstudy.com/whyscrum/scrum-principles]
 
 ## Adapting Scrum to Operations
 Think of your Product as your "enablement platform". So, that includes all of the services you look after and the functions you provide to customers. Think of customer as everyone who uses any of your services and elect someone (possibly multiple) to represent the customer by taking on the Product Owner role. Think of your team members as Developers, delivering value, not necessarily by creating software.
@@ -52,7 +52,7 @@ I think I'd approach it in this order. I'd probably start introducing standups a
     - Make action items/tickets for tasks that come out of retros
     - Build tools to solve repetitive problems
     - Automate processes where human intervention only adds delay
-  - To get honest opinions, it's important to design retrospective activities to avoid groupthink. Eg. Make sure people can't see each other's responses before they've had a chance to respond. Examples: https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates
+  - To get honest opinions, it's important to design retrospective activities to avoid groupthink. Eg. Make sure people can't see each other's responses before they've had a chance to respond. Examples: [https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates]
   - Also much harder: It's important that there is psychological safety: everyone is comfortable to take risks, speak up, raise concerns without negative repercussions.
   - Celebrate failure as an opportunity to learn/improve
 
